@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261525971954",
+    "project_id": "signmate-126c5",
+    "storage_bucket": "signmate-126c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261525971954:android:17e7c8aa896c38c0f2816b",
+        "android_client_info": {
+          "package_name": "com.example.signmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261525971954-1g9qjv1h2iuc5acj3sibfef05gpt19er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signmate",
+            "certificate_hash": "c23ccf5f5f93b8bfb4fc5a9b53b551b55bc55ab4"
+          }
+        },
+        {
+          "client_id": "261525971954-5osp72i84hcugt87gubudpp9jfvn6gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2onVDWoTWio7B3kCfhwP6lp2yK8ObK5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261525971954-5osp72i84hcugt87gubudpp9jfvn6gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
